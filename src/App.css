@@ -1,0 +1,13 @@
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  overflow: hidden;
+  text-align: center;
+}
+
+.paradiv{
+  margin-top: 10px;
+}
